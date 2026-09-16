@@ -3,6 +3,7 @@
 *.ani  binary
 *.inf  binary
 *.png  binary
+*.gif  binary
 
 # 文本文件统一 LF 存档，工作区保持原样
 *.md   text eol=lf

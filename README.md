@@ -6,6 +6,8 @@
 
 ![黑底预览](docs/assets/preview-dark-v1.0.png)
 
+![效果演示](docs/assets/effect-demo-v1.0.gif)
+
 当前发布版本：**v1.0**
 
 ---
