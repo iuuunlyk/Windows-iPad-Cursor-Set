@@ -1,0 +1,9 @@
+# 二进制资产保持逐字节原样，禁止换行符转换
+*.cur  binary
+*.ani  binary
+*.inf  binary
+*.png  binary
+
+# 文本文件统一 LF 存档，工作区保持原样
+*.md   text eol=lf
+*.py   text eol=lf

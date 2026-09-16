@@ -1,0 +1,7 @@
+# 过程产物与本地工作数据，不随仓库发布
+_process/
+handoff/
+outputs/
+.workbuddy/
+# 内部经验文档与配图，不随仓库发布
+_internal/
