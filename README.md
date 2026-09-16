@@ -2,11 +2,11 @@
 
 一款 Windows 鼠标指针套装：iPad / macOS 风格的深色光标，**纯代码生成**（Python + Pillow），不含任何第三方素材。覆盖 Windows 全部 17 个指针角色：16 个静态 `.cur` + 1 个动画 `.ani`（忙）+ 一键安装 `.inf`。
 
-![白底预览](docs/assets/preview-light-v11.png)
+![白底预览](docs/assets/preview-light-v1.0.png)
 
-![黑底预览](docs/assets/preview-dark-v11.png)
+![黑底预览](docs/assets/preview-dark-v1.0.png)
 
-当前发布版本：**v11**
+当前发布版本：**v1.0**
 
 ---
 
